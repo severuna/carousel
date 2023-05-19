@@ -9,3 +9,17 @@
 .title {
     font-size: 10rem;
 }
+
+.carousel {
+    width: 80vw;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.carousel-btn {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background-color: #1e1e1e;
+    color: #F5F5F5;
+}

@@ -1,0 +1,8 @@
+.card {
+    padding: 10rem;
+    width: 60vw;
+    height: 60vh;
+    border-radius: 1rem;
+    background-color: #1e1e1e;
+    color: cyan;
+}
